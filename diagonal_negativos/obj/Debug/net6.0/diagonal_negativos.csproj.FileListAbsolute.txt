@@ -1,0 +1,15 @@
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\bin\Debug\net6.0\diagonal_negativos.exe
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\bin\Debug\net6.0\diagonal_negativos.deps.json
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\bin\Debug\net6.0\diagonal_negativos.runtimeconfig.json
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\bin\Debug\net6.0\diagonal_negativos.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\bin\Debug\net6.0\diagonal_negativos.pdb
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\diagonal_negativos.csproj.AssemblyReference.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\diagonal_negativos.AssemblyInfoInputs.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\diagonal_negativos.AssemblyInfo.cs
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\diagonal_negativos.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\refint\diagonal_negativos.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\diagonal_negativos.pdb
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\diagonal_negativos.genruntimeconfig.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\diagonal_negativos\diagonal_negativos\obj\Debug\net6.0\ref\diagonal_negativos.dll
